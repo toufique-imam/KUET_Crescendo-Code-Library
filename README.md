@@ -1,9 +1,13 @@
 # KUET_Crescendo-Code-Library
 Code Library For KUET_Crescendo (2019-2020)
 
+## Usage:
+
+ > Requires: [Python 2/3](https://www.python.org/), [latexmk](https://www.ctan.org/pkg/latexmk/)
+ 
  > Use **generate_pdf.py** to create PDF file 
  
- > All Code is in read from `\code` directory
+ > All Code is in `\code` directory
  
  > **contents (2).txt** is used for Indexing
    `contents (2).txt` has the following format :
@@ -18,3 +22,8 @@ Code Library For KUET_Crescendo (2019-2020)
   
   - Edit 74.. : You can edit the row adding  `\begin{multicols}{2} ... \end{multicols}`
                 You can edit the orientation adding `\begin{landscape} ... \end{landscape}`
+                
+   
+## Release:
+  [Latest Release](https://github.com/sabertooth9/KUET_Crescendo-Code-Library/releases/latest)
+  [History](https://github.com/sabertooth9/KUET_Crescendo-Code-Library/releases)

@@ -1,0 +1,112 @@
+\contentsline {section}{\numberline {1}Data Structures}{3}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Ordered set PDBS}{3}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Rope}{3}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Unordered Map Pair Hash Function}{3}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}RMQ Sparse Table 2D}{3}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}Disjoint Set Union}{4}{subsection.1.5}% 
+\contentsline {subsection}{\numberline {1.6}RMQ Using Sparse Table}{4}{subsection.1.6}% 
+\contentsline {subsection}{\numberline {1.7}Segment Tree On Euler Path}{5}{subsection.1.7}% 
+\contentsline {subsection}{\numberline {1.8}Segment Tree Range Update GSS}{6}{subsection.1.8}% 
+\contentsline {subsection}{\numberline {1.9}LCA functions}{7}{subsection.1.9}% 
+\contentsline {subsection}{\numberline {1.10}Heavy Light Decomposition}{9}{subsection.1.10}% 
+\contentsline {subsection}{\numberline {1.11}Heavy Light Decomposition Adamant Implementation}{9}{subsection.1.11}% 
+\contentsline {subsection}{\numberline {1.12}MoAlgorithms Usage}{10}{subsection.1.12}% 
+\contentsline {section}{\numberline {2}Dynamic Programming}{10}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Convex Hull}{10}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Convex Hull 2}{11}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Divide And Conquer}{11}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Dynamic Hull}{12}{subsection.2.4}% 
+\contentsline {subsection}{\numberline {2.5}Knuth Optimizations}{12}{subsection.2.5}% 
+\contentsline {subsection}{\numberline {2.6}Longest Increasing Subseqence}{13}{subsection.2.6}% 
+\contentsline {section}{\numberline {3}Geometry}{13}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Geometry template 2d}{13}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Geometry Template Rezaul bhai}{18}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Checks if rectangle of sides x,y fits inside one of sides X,Y}{23}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Smallest circle enclosing given points}{23}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Soddy Circles}{23}{subsection.3.5}% 
+\contentsline {subsection}{\numberline {3.6}Spherical Co Ordinates}{24}{subsection.3.6}% 
+\contentsline {subsection}{\numberline {3.7}Voronoi diagrams and Convex hull}{24}{subsection.3.7}% 
+\contentsline {subsection}{\numberline {3.8}Usage-1}{25}{subsection.3.8}% 
+\contentsline {section}{\numberline {4}Graph - DfsTree}{25}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Biconnected Component}{25}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Biconnected Component Check}{26}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Articulation Bridge/Points}{27}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Articulation Bridge/Points Check}{27}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}SCC}{28}{subsection.4.5}% 
+\contentsline {subsection}{\numberline {4.6}SCC Check}{28}{subsection.4.6}% 
+\contentsline {section}{\numberline {5}Graph - Matching}{28}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}FastMatching}{28}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}General Matching}{29}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Min cost matching}{31}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Mtaching}{32}{subsection.5.4}% 
+\contentsline {subsection}{\numberline {5.5}Perfect Matching Min Cost Hungarian Assignment}{32}{subsection.5.5}% 
+\contentsline {subsection}{\numberline {5.6}Stable Marriage}{34}{subsection.5.6}% 
+\contentsline {section}{\numberline {6}Graph - Max Flow}{34}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Min Cut Between Every Pair Of Vertices}{34}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Max Closure}{35}{subsection.6.2}% 
+\contentsline {subsection}{\numberline {6.3}Dinic}{35}{subsection.6.3}% 
+\contentsline {subsection}{\numberline {6.4}MaxFlow Trace}{36}{subsection.6.4}% 
+\contentsline {subsection}{\numberline {6.5}MaxFlow PushRelabel}{37}{subsection.6.5}% 
+\contentsline {subsection}{\numberline {6.6}Min Cost Max Flow PushRelabel}{39}{subsection.6.6}% 
+\contentsline {subsection}{\numberline {6.7}Min Cost Max Flow Shortest Path Faster Algorithm}{41}{subsection.6.7}% 
+\contentsline {subsection}{\numberline {6.8}Minimum Cut}{42}{subsection.6.8}% 
+\contentsline {subsection}{\numberline {6.9}Misc?}{42}{subsection.6.9}% 
+\contentsline {section}{\numberline {7}Graph- MST}{43}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Directed MST}{43}{subsection.7.1}% 
+\contentsline {section}{\numberline {8}Graph- Misc}{44}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}2SAT}{44}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8.2}Euler Path}{45}{subsection.8.2}% 
+\contentsline {subsection}{\numberline {8.3}Euler Path Check}{45}{subsection.8.3}% 
+\contentsline {subsection}{\numberline {8.4}Max Clique}{45}{subsection.8.4}% 
+\contentsline {section}{\numberline {9}JAVA}{46}{section.9}% 
+\contentsline {subsection}{\numberline {9.1}BigMath}{46}{subsection.9.1}% 
+\contentsline {subsection}{\numberline {9.2}IO}{47}{subsection.9.2}% 
+\contentsline {subsection}{\numberline {9.3}Regex Test}{47}{subsection.9.3}% 
+\contentsline {section}{\numberline {10}Math - Linear}{48}{section.10}% 
+\contentsline {subsection}{\numberline {10.1}Gaussian Jordan Elimination}{48}{subsection.10.1}% 
+\contentsline {subsection}{\numberline {10.2}Gaussian Binary}{48}{subsection.10.2}% 
+\contentsline {subsection}{\numberline {10.3}Matrix Class Java}{49}{subsection.10.3}% 
+\contentsline {section}{\numberline {11}Math - NumberThoery}{49}{section.11}% 
+\contentsline {subsection}{\numberline {11.1}Find any Prime Factor of n}{49}{subsection.11.1}% 
+\contentsline {subsection}{\numberline {11.2}Find any Prime Factor of n check}{50}{subsection.11.2}% 
+\contentsline {subsection}{\numberline {11.3}sum(aixi)=b(mod m)}{50}{subsection.11.3}% 
+\contentsline {subsection}{\numberline {11.4}Factorial Mod}{51}{subsection.11.4}% 
+\contentsline {subsection}{\numberline {11.5}Primitive Root}{51}{subsection.11.5}% 
+\contentsline {subsection}{\numberline {11.6}Sqrt Mod}{51}{subsection.11.6}% 
+\contentsline {subsection}{\numberline {11.7}Number theory (modular, Chinese remainder, linear Diophantine)}{52}{subsection.11.7}% 
+\contentsline {subsection}{\numberline {11.8}Details in Code}{53}{subsection.11.8}% 
+\contentsline {section}{\numberline {12}Math - Prime}{54}{section.12}% 
+\contentsline {subsection}{\numberline {12.1}EulerPhi}{54}{subsection.12.1}% 
+\contentsline {subsection}{\numberline {12.2}Sieve}{54}{subsection.12.2}% 
+\contentsline {subsection}{\numberline {12.3}PollardRho}{55}{subsection.12.3}% 
+\contentsline {subsection}{\numberline {12.4}RabinMiller Prime Test}{55}{subsection.12.4}% 
+\contentsline {subsection}{\numberline {12.5}Segmented Sieve}{56}{subsection.12.5}% 
+\contentsline {section}{\numberline {13}Math - Pure}{56}{section.13}% 
+\contentsline {subsection}{\numberline {13.1}Fibonacci Check}{56}{subsection.13.1}% 
+\contentsline {subsection}{\numberline {13.2}Bernoulli Numbers and Faulhaber's Formula}{56}{subsection.13.2}% 
+\contentsline {subsection}{\numberline {13.3}Moebius}{58}{subsection.13.3}% 
+\contentsline {subsection}{\numberline {13.4}N Gonal}{58}{subsection.13.4}% 
+\contentsline {subsection}{\numberline {13.5}Pell Equation}{58}{subsection.13.5}% 
+\contentsline {subsection}{\numberline {13.6}Generate All Primitive Triplets}{58}{subsection.13.6}% 
+\contentsline {subsection}{\numberline {13.7}Sum div Sum mod}{58}{subsection.13.7}% 
+\contentsline {subsection}{\numberline {13.8}Matrix Cpp Class}{59}{subsection.13.8}% 
+\contentsline {subsection}{\numberline {13.9}Lehmer Pi}{60}{subsection.13.9}% 
+\contentsline {subsection}{\numberline {13.10}Knight's Shortest Path}{61}{subsection.13.10}% 
+\contentsline {section}{\numberline {14}String}{61}{section.14}% 
+\contentsline {subsection}{\numberline {14.1}Hash}{61}{subsection.14.1}% 
+\contentsline {subsection}{\numberline {14.2}SuffixArray}{62}{subsection.14.2}% 
+\contentsline {subsection}{\numberline {14.3}SuffixArray Check}{63}{subsection.14.3}% 
+\contentsline {subsection}{\numberline {14.4}KMP}{63}{subsection.14.4}% 
+\contentsline {subsection}{\numberline {14.5}Palindromic Tree}{64}{subsection.14.5}% 
+\contentsline {subsection}{\numberline {14.6}AhoCorasick}{64}{subsection.14.6}% 
+\contentsline {subsection}{\numberline {14.7}Find duplicate strings twice a time}{65}{subsection.14.7}% 
+\contentsline {subsection}{\numberline {14.8}Suffix Automata}{66}{subsection.14.8}% 
+\contentsline {subsection}{\numberline {14.9}Manacher}{67}{subsection.14.9}% 
+\contentsline {subsection}{\numberline {14.10}Z algorithm}{67}{subsection.14.10}% 
+\contentsline {subsection}{\numberline {14.11}Z Algorithm Check}{67}{subsection.14.11}% 
+\contentsline {section}{\numberline {15}MISC}{68}{section.15}% 
+\contentsline {subsection}{\numberline {15.1}Kth Permutation}{68}{subsection.15.1}% 
+\contentsline {subsection}{\numberline {15.2}Next Palindrome}{68}{subsection.15.2}% 
+\contentsline {subsection}{\numberline {15.3}Date Cpp}{70}{subsection.15.3}% 
+\contentsline {subsection}{\numberline {15.4}Date Java}{70}{subsection.15.4}% 
+\contentsline {subsection}{\numberline {15.5}Template}{71}{subsection.15.5}% 

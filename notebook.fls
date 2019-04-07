@@ -1,0 +1,469 @@
+PWD C:\Users\Nuhash\Desktop\KUET_Crescendo CodeLibrary
+INPUT C:\Users\Nuhash\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT notebook.tex
+OUTPUT notebook.log
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\inconsolata\inconsolata.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\inconsolata\inconsolata.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT notebook.aux
+INPUT notebook.aux
+OUTPUT notebook.aux
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT notebook.out
+INPUT notebook.out
+INPUT notebook.out
+INPUT notebook.out
+OUTPUT notebook.pdf
+INPUT .\notebook.out
+INPUT .\notebook.out
+OUTPUT notebook.out
+INPUT F:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT F:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\upquote\upquote.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\upquote\upquote.sty
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrb7t.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT notebook.toc
+INPUT notebook.toc
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx8.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrr7t.vf
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT C:\Users\Nuhash\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT F:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrb7t.vf
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrb8r.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrr7t.vf
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr8r.tfm
+OUTPUT notebook.toc
+INPUT contents.tex
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT code\order_statistic.cc
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT code\order_statistic.cc
+INPUT code\order_statistic.cc
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrb7t.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrro7t.tfm
+INPUT code\rope.cpp
+INPUT code\rope.cpp
+INPUT code\rope.cpp
+INPUT code\unordered_map_pair.cc
+INPUT code\unordered_map_pair.cc
+INPUT code\unordered_map_pair.cc
+INPUT code\2D_RMQ_Sparse_table.cc
+INPUT code\2D_RMQ_Sparse_table.cc
+INPUT code\2D_RMQ_Sparse_table.cc
+INPUT F:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrb7t.vf
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrb8r.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrr7t.vf
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT F:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrro7t.vf
+INPUT F:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrro8r.tfm
+INPUT code\DSU.cc
+INPUT code\DSU.cc
+INPUT code\DSU.cc
+INPUT code\RMQ_LCA.cc
+INPUT code\RMQ_LCA.cc
+INPUT code\RMQ_LCA.cc
+INPUT code\Segment_Tree_On_Euler_Path.cc
+INPUT code\Segment_Tree_On_Euler_Path.cc
+INPUT code\Segment_Tree_On_Euler_Path.cc
+INPUT code\Segment_Tree_Range_Update_GSS.cc
+INPUT code\Segment_Tree_Range_Update_GSS.cc
+INPUT code\Segment_Tree_Range_Update_GSS.cc
+INPUT code\LCA.cc
+INPUT code\LCA.cc
+INPUT code\LCA.cc
+INPUT code\HeavyLight.cc
+INPUT code\HeavyLight.cc
+INPUT code\HeavyLight.cc
+INPUT code\HeavyLight_adamant.cc
+INPUT code\HeavyLight_adamant.cc
+INPUT code\HeavyLight_adamant.cc
+INPUT code\MoAlgorithm.cc
+INPUT code\MoAlgorithm.cc
+INPUT code\MoAlgorithm.cc
+INPUT code\convex_hull.cc
+INPUT code\convex_hull.cc
+INPUT code\convex_hull.cc
+INPUT code\convex_hull_2.cc
+INPUT code\convex_hull_2.cc
+INPUT code\convex_hull_2.cc
+INPUT code\divide_conquer.cc
+INPUT code\divide_conquer.cc
+INPUT code\divide_conquer.cc
+INPUT code\dynamic_hull.cc
+INPUT code\dynamic_hull.cc
+INPUT code\dynamic_hull.cc
+INPUT code\knuth.cc
+INPUT code\knuth.cc
+INPUT code\knuth.cc
+INPUT code\lis.cc
+INPUT code\lis.cc
+INPUT code\lis.cc
+INPUT code\2d_obj.h
+INPUT code\2d_obj.h
+INPUT code\2d_obj.h
+INPUT code\Geo_Rezaul_Bhai.cpp
+INPUT code\Geo_Rezaul_Bhai.cpp
+INPUT code\Geo_Rezaul_Bhai.cpp
+INPUT code\RectInRect.h
+INPUT code\RectInRect.h
+INPUT code\RectInRect.h
+INPUT code\smallestEnclosingCircle.h
+INPUT code\smallestEnclosingCircle.h
+INPUT code\smallestEnclosingCircle.h
+INPUT code\soddy_circles.txt
+INPUT code\soddy_circles.txt
+INPUT code\soddy_circles.txt
+INPUT code\spherical.h
+INPUT code\spherical.h
+INPUT code\spherical.h
+INPUT code\voronoi.cpp
+INPUT code\voronoi.cpp
+INPUT code\voronoi.cpp
+INPUT code\SPOJ_ALIENS.cpp
+INPUT code\SPOJ_ALIENS.cpp
+INPUT code\SPOJ_ALIENS.cpp
+INPUT code\BiconnectedComponent.h
+INPUT code\BiconnectedComponent.h
+INPUT code\BiconnectedComponent.h
+INPUT code\BiconnectedComponent.cpp
+INPUT code\BiconnectedComponent.cpp
+INPUT code\BiconnectedComponent.cpp
+INPUT code\BridgeArticulation.h
+INPUT code\BridgeArticulation.h
+INPUT code\BridgeArticulation.h
+INPUT code\BridgeArticulation.cpp
+INPUT code\BridgeArticulation.cpp
+INPUT code\BridgeArticulation.cpp
+INPUT code\StronglyConnected.h
+INPUT code\StronglyConnected.h
+INPUT code\StronglyConnected.h
+INPUT code\StronglyConnected.cpp
+INPUT code\StronglyConnected.cpp
+INPUT code\StronglyConnected.cpp
+INPUT code\FastMatching.h
+INPUT code\FastMatching.h
+INPUT code\FastMatching.h
+INPUT code\GeneralMatching.h
+INPUT code\GeneralMatching.h
+INPUT code\GeneralMatching.h
+INPUT code\HungarianLMH.h
+INPUT code\HungarianLMH.h
+INPUT code\HungarianLMH.h
+INPUT code\Matching.h
+INPUT code\Matching.h
+INPUT code\Matching.h
+INPUT code\PerfectMatchingMinCOst.h
+INPUT code\PerfectMatchingMinCOst.h
+INPUT code\PerfectMatchingMinCOst.h
+INPUT code\StableMarriage.h
+INPUT code\StableMarriage.h
+INPUT code\StableMarriage.h
+INPUT code\GomoryHu.h
+INPUT code\GomoryHu.h
+INPUT code\GomoryHu.h
+INPUT code\MaxClosure.txt
+INPUT code\MaxClosure.txt
+INPUT code\MaxClosure.txt
+INPUT code\MaxFlowDinic.h
+INPUT code\MaxFlowDinic.h
+INPUT code\MaxFlowDinic.h
+INPUT code\MaxFlowDinictrace.h
+INPUT code\MaxFlowDinictrace.h
+INPUT code\MaxFlowDinictrace.h
+INPUT code\MaxFlowPR.h
+INPUT code\MaxFlowPR.h
+INPUT code\MaxFlowPR.h
+INPUT code\MinCostMaxFlowPR.h
+INPUT code\MinCostMaxFlowPR.h
+INPUT code\MinCostMaxFlowPR.h
+INPUT code\MinCostMaxFlowSPFA.h
+INPUT code\MinCostMaxFlowSPFA.h
+INPUT code\MinCostMaxFlowSPFA.h
+INPUT code\MinimumCut.h
+INPUT code\MinimumCut.h
+INPUT code\MinimumCut.h
+INPUT code\upper_lower.txt
+INPUT code\upper_lower.txt
+INPUT code\upper_lower.txt
+INPUT code\DirectedMST.h
+INPUT code\DirectedMST.h
+INPUT code\DirectedMST.h
+INPUT code\2sat.cpp
+INPUT code\2sat.cpp
+INPUT code\2sat.cpp
+INPUT code\EulerPath.h
+INPUT code\EulerPath.h
+INPUT code\EulerPath.h
+INPUT code\EulerPath.cpp
+INPUT code\EulerPath.cpp
+INPUT code\EulerPath.cpp
+INPUT code\MaxClique.h
+INPUT code\MaxClique.h
+INPUT code\MaxClique.h
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT F:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT code\BigMath.java
+INPUT code\BigMath.java
+INPUT code\BigMath.java
+INPUT code\InputReader.java
+INPUT code\InputReader.java
+INPUT code\InputReader.java
+INPUT code\RegexTest.java
+INPUT code\RegexTest.java
+INPUT code\RegexTest.java
+INPUT code\Gaussian.h
+INPUT code\Gaussian.h
+INPUT code\Gaussian.h
+INPUT code\GaussianBinary.h
+INPUT code\GaussianBinary.h
+INPUT code\GaussianBinary.h
+INPUT code\Matrix.java
+INPUT code\Matrix.java
+INPUT code\Matrix.java
+INPUT code\brent.h
+INPUT code\brent.h
+INPUT code\brent.h
+INPUT code\brent.cpp
+INPUT code\brent.cpp
+INPUT code\brent.cpp
+INPUT code\congruence.h
+INPUT code\congruence.h
+INPUT code\congruence.h
+INPUT code\FactorialMod.h
+INPUT code\FactorialMod.h
+INPUT code\FactorialMod.h
+INPUT code\PrimitiveRoot.h
+INPUT code\PrimitiveRoot.h
+INPUT code\PrimitiveRoot.h
+INPUT code\SqrtMod.h
+INPUT code\SqrtMod.h
+INPUT code\SqrtMod.h
+INPUT code\Euclid.cc
+INPUT code\Euclid.cc
+INPUT code\Euclid.cc
+INPUT code\x_k_a.h
+INPUT code\x_k_a.h
+INPUT code\x_k_a.h
+INPUT code\EulerPhi.h
+INPUT code\EulerPhi.h
+INPUT code\EulerPhi.h
+INPUT code\IterativeSieve.h
+INPUT code\IterativeSieve.h
+INPUT code\IterativeSieve.h
+INPUT code\PollardRho.java
+INPUT code\PollardRho.java
+INPUT code\PollardRho.java
+INPUT code\RabinMiller.h
+INPUT code\RabinMiller.h
+INPUT code\RabinMiller.h
+INPUT code\SegmentedSieve.h
+INPUT code\SegmentedSieve.h
+INPUT code\SegmentedSieve.h
+INPUT code\fibo.h
+INPUT code\fibo.h
+INPUT code\fibo.h
+INPUT code\Bernoulli.cpp
+INPUT code\Bernoulli.cpp
+INPUT code\Bernoulli.cpp
+INPUT code\moebius.txt
+INPUT code\moebius.txt
+INPUT code\moebius.txt
+INPUT code\n_gonal.txt
+INPUT code\n_gonal.txt
+INPUT code\n_gonal.txt
+INPUT code\pell_equation.txt
+INPUT code\pell_equation.txt
+INPUT code\pell_equation.txt
+INPUT code\PythagoreTriple.h
+INPUT code\PythagoreTriple.h
+INPUT code\PythagoreTriple.h
+INPUT code\SumDiv_SumMod.h
+INPUT code\SumDiv_SumMod.h
+INPUT code\SumDiv_SumMod.h
+INPUT code\Matrix.h
+INPUT code\Matrix.h
+INPUT code\Matrix.h
+INPUT code\PrimePi.h
+INPUT code\PrimePi.h
+INPUT code\PrimePi.h
+INPUT code\KnightMove.h
+INPUT code\KnightMove.h
+INPUT code\KnightMove.h
+INPUT code\hash.h
+INPUT code\hash.h
+INPUT code\hash.h
+INPUT code\SuffixArray.h
+INPUT code\SuffixArray.h
+INPUT code\SuffixArray.h
+INPUT code\SuffixArray.cpp
+INPUT code\SuffixArray.cpp
+INPUT code\SuffixArray.cpp
+INPUT code\KMP.cpp
+INPUT code\KMP.cpp
+INPUT code\KMP.cpp
+INPUT code\eertree.cpp
+INPUT code\eertree.cpp
+INPUT code\eertree.cpp
+INPUT code\AhoCorasick.h
+INPUT code\AhoCorasick.h
+INPUT code\AhoCorasick.h
+INPUT code\maine_lorentz.h
+INPUT code\maine_lorentz.h
+INPUT code\maine_lorentz.h
+INPUT code\suffix_automaton.h
+INPUT code\suffix_automaton.h
+INPUT code\suffix_automaton.h
+INPUT code\VOJ_PALINY.cpp
+INPUT code\VOJ_PALINY.cpp
+INPUT code\VOJ_PALINY.cpp
+INPUT code\zfunc.h
+INPUT code\zfunc.h
+INPUT code\zfunc.h
+INPUT code\zfunc.cpp
+INPUT code\zfunc.cpp
+INPUT code\zfunc.cpp
+INPUT code\kth_Permutation.java
+INPUT code\kth_Permutation.java
+INPUT code\kth_Permutation.java
+INPUT code\next_palindrome.cpp
+INPUT code\next_palindrome.cpp
+INPUT code\next_palindrome.cpp
+INPUT code\Dates.cc
+INPUT code\Dates.cc
+INPUT code\Dates.cc
+INPUT code\Dates.java
+INPUT code\Dates.java
+INPUT code\Dates.java
+INPUT code\Template.cpp
+INPUT code\Template.cpp
+INPUT code\Template.cpp
+INPUT notebook.aux
+INPUT .\notebook.out
+INPUT .\notebook.out
+INPUT F:\Program Files\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx8.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx8.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrb8a.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrb8a.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrro8a.pfb
+INPUT F:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrro8a.pfb

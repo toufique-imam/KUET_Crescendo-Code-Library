@@ -1,0 +1,126 @@
+[Data Structures]
+order_statistic.cc	Ordered set PDBS
+rope.cpp	Rope 
+unordered_map_pair.cc	Unordered Map Pair Hash Function
+2D_RMQ_Sparse_table.cc	RMQ Sparse Table 2D 
+DSU.cc	Disjoint Set Union
+RMQ_LCA.cc	RMQ Using Sparse Table
+Segment_Tree_On_Euler_Path.cc	Segment Tree On Euler Path
+Segment_Tree_Range_Update_GSS.cc	Segment Tree Range Update GSS
+LCA.cc	LCA functions
+HeavyLight.cc	Heavy Light Decomposition
+HeavyLight_adamant.cc	Heavy Light Decomposition Adamant Implementation
+MoAlgorithm.cc	MoAlgorithms Usage
+
+[Dynamic Programming]
+convex_hull.cc	Convex Hull
+convex_hull_2.cc	Convex Hull 2
+divide_conquer.cc	Divide And Conquer
+dynamic_hull.cc	Dynamic Hull
+knuth.cc	Knuth Optimizations
+lis.cc	Longest	Increasing Subseqence
+
+[Geometry]
+2d_obj.h	Geometry template 2d
+Geo_Rezaul_Bhai.cpp	Geometry Template Rezaul bhai
+RectInRect.h	Checks if rectangle of sides x,y fits inside one of sides X,Y
+smallestEnclosingCircle.h	Smallest circle enclosing given points
+soddy_circles.txt	Soddy Circles
+spherical.h	Spherical Co Ordinates
+voronoi.cpp	Voronoi diagrams and Convex hull
+SPOJ_ALIENS.cpp	Usage-1
+
+
+[Graph - DfsTree]
+BiconnectedComponent.h	Biconnected Component
+BiconnectedComponent.cpp	Biconnected Component Check
+BridgeArticulation.h	Articulation Bridge/Points
+BridgeArticulation.cpp	Articulation Bridge/Points Check
+StronglyConnected.h	SCC
+StronglyConnected.cpp	SCC Check
+
+[Graph - Matching]
+FastMatching.h	FastMatching	
+GeneralMatching.h	General Matching
+HungarianLMH.h	Min cost matching
+Matching.h	Matching
+PerfectMatchingMinCOst.h	Perfect Matching Min Cost Hungarian Assignment
+StableMarriage.h	Stable Marriage
+
+[Graph - Max Flow]
+GomoryHu.h	Min Cut Between Every Pair Of Vertices
+MaxClosure.txt	Max Closure
+MaxFlowDinic.h	Dinic
+MaxFlowDinictrace.h	MaxFlow Trace
+MaxFlowPR.h	MaxFlow PushRelabel
+MinCostMaxFlowPR.h	Min Cost Max Flow PushRelabel
+MinCostMaxFlowSPFA.h	Min Cost Max Flow Shortest Path Faster Algorithm
+MinimumCut.h	Minimum Cut
+upper_lower.txt	Misc?
+
+[Graph- MST]
+DirectedMST.h	Directed MST
+
+[Graph- Misc]
+2sat.cpp	2SAT
+EulerPath.h	Euler Path
+EulerPath.cpp	Euler Path Check
+MaxClique.h	Max Clique
+
+[JAVA]
+BigMath.java	BigMath
+InputReader.java	IO
+RegexTest.java	Regex Test
+
+[Math - Linear]
+Gaussian.h	Gaussian Jordan Elimination
+GaussianBinary.h	Gaussian Binary
+Matrix.java	Matrix Class Java
+
+[Math - NumberThoery]
+brent.h	Find any Prime Factor of n
+brent.cpp	Find any Prime Factor of n check
+congruence.h	sum(aixi)=b(mod m)
+FactorialMod.h	Factorial Mod
+PrimitiveRoot.h	Primitive Root
+SqrtMod.h	Sqrt Mod
+Euclid.cc	Number theory (modular, Chinese remainder, linear Diophantine)
+x_k_a.h	Details in Code
+
+[Math - Prime]
+EulerPhi.h	EulerPhi
+IterativeSieve.h	Sieve
+PollardRho.java	PollardRho
+RabinMiller.h	RabinMiller Prime Test
+SegmentedSieve.h	Segmented Sieve
+
+[Math - Pure]
+fibo.h	Fibonacci Check
+Bernoulli.cpp	Bernoulli Numbers and Faulhaber's Formula
+moebius.txt	Moebius
+n_gonal.txt	N Gonal
+pell_equation.txt	Pell Equation
+PythagoreTriple.h	Generate All Primitive Triplets
+SumDiv_SumMod.h	Sum div Sum mod
+Matrix.h	Matrix Cpp Class
+PrimePi.h	Lehmer Pi
+KnightMove.h	Knight's Shortest Path
+
+[String]
+hash.h	Hash
+SuffixArray.h	SuffixArray
+SuffixArray.cpp	SuffixArray Check
+KMP.cpp	KMP
+eertree.cpp	Palindromic Tree
+AhoCorasick.h	AhoCorasick
+maine_lorentz.h	Find duplicate strings twice a time
+suffix_automaton.h	Suffix Automata
+VOJ_PALINY.cpp	Manacher
+zfunc.h	Z algorithm
+zfunc.cpp	Z Algorithm Check
+[MISC]
+kth_Permutation.java	Kth Permutation
+next_palindrome.cpp	Next Palindrome
+Dates.cc	Date Cpp
+Dates.java	Date Java
+Template.cpp	Template
